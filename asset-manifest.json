@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aveschile/static/css/main.8147579f.css",
+    "main.js": "/aveschile/static/js/main.7760ac3d.js",
+    "index.html": "/aveschile/index.html",
+    "main.8147579f.css.map": "/aveschile/static/css/main.8147579f.css.map",
+    "main.7760ac3d.js.map": "/aveschile/static/js/main.7760ac3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8147579f.css",
+    "static/js/main.7760ac3d.js"
+  ]
+}
