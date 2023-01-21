@@ -1,3 +1,3 @@
 Web: https://danield-s.github.io/aveschile/
 ------------
-Video: Soon
+Video: https://youtu.be/Ayq7e-iGVXM
